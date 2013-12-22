@@ -1,4 +1,5 @@
 djangoTutorial
 ==============
 
-quick django tutorial
+Quick Django Tutorial
+First update of the tutorial
